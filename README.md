@@ -11,7 +11,7 @@
 **Mentor:** SRAVANI GOUNI
 
 
-### Description of Task###
+### Description of Task ###
 This project demonstrates the implementation of an SMS Spam Detection system using Python and Machine Learning techniques. The system is built using the Logistic Regression algorithm and leverages TF-IDF Vectorization for text preprocessing. It serves as a complete example of text classification, from data preparation to model evaluation and visualization.
 
 Purpose of the Project
