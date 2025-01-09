@@ -77,26 +77,8 @@ Project Structure
 spam_detection.py: The main Python script implementing the spam detection system.
 requirements.txt: Contains all the dependencies needed to run the project.
 Dataset Source: The SMS Spam Collection Dataset is fetched directly from the raw URL for seamless integration.
-How to Run
-Clone this repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/sms-spam-detection.git
-cd sms-spam-detection
-Install the required libraries:
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the script:
-
-bash
-Copy code
-python spam_detection.py
-The script will:
-
-Train the model.
 Evaluate its performance.
 Display visualizations.
 Predict outcomes for example SMS messages.
